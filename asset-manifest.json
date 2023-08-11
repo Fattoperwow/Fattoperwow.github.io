@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea148d90.css",
+    "main.js": "/static/js/main.14ef4798.js",
+    "static/media/field-dark.png": "/static/media/field-dark.e0c3706308ecfcb5db52.png",
+    "static/media/playercard-bg.png": "/static/media/playercard-bg.1400ed9aec5bbfd9ac06.png",
+    "static/media/pogba.ogg": "/static/media/pogba.18f6bb539cb7a5d9130c.ogg",
+    "static/media/j.ogg": "/static/media/j.a9e95883ef01cc80e1a6.ogg",
+    "static/media/cagare.ogg": "/static/media/cagare.2482483b7e0737ff59a1.ogg",
+    "static/media/elementari.ogg": "/static/media/elementari.3ca23d9fdbbb1faa45ca.ogg",
+    "static/media/porca.ogg": "/static/media/porca.194b908210fd7fe6b2ef.ogg",
+    "static/media/devastante.ogg": "/static/media/devastante.60e4950c507a91f9769e.ogg",
+    "static/media/dio.ogg": "/static/media/dio.e1ed69b4b8f3889c52af.ogg",
+    "static/media/madre.ogg": "/static/media/madre.7caea491f3dcf5514273.ogg",
+    "static/media/mancosu.ogg": "/static/media/mancosu.09f9cad47e0949f23119.ogg",
+    "static/media/peres.ogg": "/static/media/peres.3996c240e02f6ffe231d.ogg",
+    "static/media/senno.ogg": "/static/media/senno.c5b634d8db21aba91c32.ogg",
+    "static/media/5.ogg": "/static/media/5.316445488263b1c7ddd6.ogg",
+    "static/media/pazzi.ogg": "/static/media/pazzi.4ec6f3c6546f0d58487a.ogg",
+    "static/media/ingiusto.ogg": "/static/media/ingiusto.0871fc8729a68f288d97.ogg",
+    "static/media/incredibile.ogg": "/static/media/incredibile.694c4aa9029610783a09.ogg",
+    "static/media/cane.ogg": "/static/media/cane.c1aaa1c3e60f2870e401.ogg",
+    "static/media/veramente.ogg": "/static/media/veramente.48561912e7737a5e7686.ogg",
+    "static/media/ecco.ogg": "/static/media/ecco.762bee80382c5fdd3162.ogg",
+    "static/media/cadavere.ogg": "/static/media/cadavere.85d9d54dfabfa142a6fa.ogg",
+    "static/media/impazzito.ogg": "/static/media/impazzito.a0495380e6763d9808b0.ogg",
+    "static/media/acquisto.ogg": "/static/media/acquisto.fc86aeee2e37ba7a06c5.ogg",
+    "static/media/onesto.ogg": "/static/media/onesto.2b9170697cbe54914075.ogg",
+    "index.html": "/index.html",
+    "main.ea148d90.css.map": "/static/css/main.ea148d90.css.map",
+    "main.14ef4798.js.map": "/static/js/main.14ef4798.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea148d90.css",
+    "static/js/main.14ef4798.js"
+  ]
+}
