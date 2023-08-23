@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Page Not Found</title>
+    <script type="text/javascript">
+      var url = window.location.href;
+      if (!/\/$/.test(url)) {
+        url = url + '/';
+      }
+      url = url + 'index.html';
+      window.location.replace(url);
+    </script>
+  </head>
+  <body>
+    Redirecting...
+  </body>
+</html>
