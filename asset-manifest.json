@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.e098392b.css",
-    "main.js": "/static/js/main.7b766c3b.js",
+    "main.js": "/static/js/main.487baf48.js",
     "static/media/field-dark.png": "/static/media/field-dark.e0c3706308ecfcb5db52.png",
     "static/media/playercard-bg.png": "/static/media/playercard-bg.1400ed9aec5bbfd9ac06.png",
+    "static/media/moduli.jpeg": "/static/media/moduli.672dd58d72ee6066ca16.jpeg",
+    "static/media/moduli-s.jpeg": "/static/media/moduli-s.98d84a3ca4218b86cf32.jpeg",
     "static/media/pogba.ogg": "/static/media/pogba.18f6bb539cb7a5d9130c.ogg",
     "static/media/j.ogg": "/static/media/j.a9e95883ef01cc80e1a6.ogg",
     "static/media/cagare.ogg": "/static/media/cagare.2482483b7e0737ff59a1.ogg",
@@ -28,10 +30,10 @@
     "static/media/onesto.ogg": "/static/media/onesto.2b9170697cbe54914075.ogg",
     "index.html": "/index.html",
     "main.e098392b.css.map": "/static/css/main.e098392b.css.map",
-    "main.7b766c3b.js.map": "/static/js/main.7b766c3b.js.map"
+    "main.487baf48.js.map": "/static/js/main.487baf48.js.map"
   },
   "entrypoints": [
     "static/css/main.e098392b.css",
-    "static/js/main.7b766c3b.js"
+    "static/js/main.487baf48.js"
   ]
 }
